@@ -11,6 +11,7 @@ bacon
 orange juice
 grapes
 lemons
+lime
 lettuce
 rice
 soup
