@@ -15,3 +15,4 @@ androd phone
 iphone
 ipad
 laptop
+charger
