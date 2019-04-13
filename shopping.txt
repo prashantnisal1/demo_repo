@@ -1,7 +1,7 @@
 Shopping List
 
 apples
-6 bananas
+7 bananas
 yogurt
 milk
 bread
